@@ -1,0 +1,21 @@
+{
+  "item.upgrader.common_crate": "Common Crate",
+  "item.upgrader.mid_crate": "Mid Crate",
+  "item.upgrader.rare_crate": "Rare Crate",
+  "item.upgrader.legendary_crate": "Legendary Crate",
+  "item.upgrader.mythic_crate": "Mythic Crate",
+  "item.upgrader.custom_crate": "Особый ящик",
+  "item.upgrader.podkrytka": "+podkrytka",
+  "effect.upgrader.podkrytka": "+podkrytka",
+  "tooltip.upgrader.open": "ПКМ — посмотреть содержимое и открыть",
+  "tooltip.upgrader.podkrytka.1": "Убийства могут выбить Legendary Crate",
+  "tooltip.upgrader.podkrytka.2": "Действует 1 минуту. Только твои убийства",
+  "tooltip.upgrader.podkrytka.3": "Слишком много убийств за зелье — шансы резко падают",
+  "item.upgrader.luck_potion": "Зелье удачи ящиков",
+  "item.upgrader.luck_potion_greater": "Большое зелье удачи ящиков",
+  "block.upgrader.upgrader": "Апгрейдер",
+  "effect.upgrader.crate_luck": "Удача ящиков",
+  "tooltip.upgrader.luck.1": "Повышает шанс РЕДКИХ предметов из ящиков",
+  "tooltip.upgrader.luck.normal": "Действует 2 минуты",
+  "tooltip.upgrader.luck.strong": "Действует 2 минуты. Бонус сильнее"
+}

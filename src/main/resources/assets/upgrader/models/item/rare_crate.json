@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "upgrader:item/rare_crate"
+  }
+}

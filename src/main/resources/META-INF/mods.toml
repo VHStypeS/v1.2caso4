@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="upgrader"
+version="1.4.0"
+displayName="Upgrader"
+description='''Crates with a roulette animation, public loot preview, custom crates, +podkrytka potion and anti-farm drops. Loot is configured in-game and stored on the server.'''
+
+[[dependencies.upgrader]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.upgrader]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

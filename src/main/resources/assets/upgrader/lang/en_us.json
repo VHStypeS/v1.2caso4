@@ -1,0 +1,21 @@
+{
+  "item.upgrader.common_crate": "Common Crate",
+  "item.upgrader.mid_crate": "Mid Crate",
+  "item.upgrader.rare_crate": "Rare Crate",
+  "item.upgrader.legendary_crate": "Legendary Crate",
+  "item.upgrader.mythic_crate": "Mythic Crate",
+  "item.upgrader.custom_crate": "Custom Crate",
+  "item.upgrader.podkrytka": "+podkrytka",
+  "effect.upgrader.podkrytka": "+podkrytka",
+  "tooltip.upgrader.open": "Right-click: see contents and open",
+  "tooltip.upgrader.podkrytka.1": "Kills have a chance to drop a Legendary Crate",
+  "tooltip.upgrader.podkrytka.2": "Lasts 1 minute. Your own kills only",
+  "tooltip.upgrader.podkrytka.3": "Too many kills in one potion — chances drop sharply",
+  "item.upgrader.luck_potion": "Crate Luck Potion",
+  "item.upgrader.luck_potion_greater": "Greater Crate Luck Potion",
+  "block.upgrader.upgrader": "Upgrader",
+  "effect.upgrader.crate_luck": "Crate Luck",
+  "tooltip.upgrader.luck.1": "Better chances for RARE items from crates",
+  "tooltip.upgrader.luck.normal": "Lasts 2 minutes",
+  "tooltip.upgrader.luck.strong": "Lasts 2 minutes. Stronger boost"
+}

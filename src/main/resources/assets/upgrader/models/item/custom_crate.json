@@ -1,0 +1,12 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "upgrader:item/common_crate"
+  },
+  "overrides": [
+    { "predicate": { "upgrader:style": 1 }, "model": "upgrader:item/mid_crate" },
+    { "predicate": { "upgrader:style": 2 }, "model": "upgrader:item/rare_crate" },
+    { "predicate": { "upgrader:style": 3 }, "model": "upgrader:item/legendary_crate" },
+    { "predicate": { "upgrader:style": 4 }, "model": "upgrader:item/mythic_crate" }
+  ]
+}
